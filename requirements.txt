@@ -1,0 +1,5 @@
+streamlit
+langgraph
+langchain-aws
+boto3
+python-dotenv
